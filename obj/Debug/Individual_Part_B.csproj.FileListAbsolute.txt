@@ -1,0 +1,7 @@
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\bin\Debug\Individual_Part_B.exe.config
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\bin\Debug\Individual_Part_B.exe
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\bin\Debug\Individual_Part_B.pdb
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\obj\Debug\Individual_Part_B.csprojAssemblyReference.cache
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\obj\Debug\Individual_Part_B.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\obj\Debug\Individual_Part_B.exe
+C:\Users\Dimitris\Desktop\C# exercises\Individual_Part_B\Individual_Part_B\obj\Debug\Individual_Part_B.pdb
